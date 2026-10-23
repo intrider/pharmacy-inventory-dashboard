@@ -95,4 +95,10 @@ vercel
 - [ ] Source and destination stores must be different
 - [ ] Transfer History search and filters work
 - [ ] Refresh the browser and confirm data is still present
-- [ ] Layout remains usable on desktop, tablet, and mobile widths
+- [ ] # Layout remains usable on desktop, tablet, and mobile widths
+
+# pharmacy-inventory-dashboard
+
+A React.js dashboard for pharmacy inventory monitoring and stock transfer management.
+
+> > > > > > > 972b5a94b30316cfae2a4af7df660f9307eff07f
